@@ -1,6 +1,18 @@
 # payment_app_ui
 
-A new Flutter project.
+This is a flutter project that is made to visualise the UI of a payment app. 
+
+## project final images
+![flutter app ss 1](https://github.com/ManavTyagi-kp/PaymentAppUI/assets/83765713/cf1f6504-5ad0-4446-a072-9b788d46f39a)
+
+![Screenshot 2023-12-13 205350](https://github.com/ManavTyagi-kp/PaymentAppUI/assets/83765713/ef446b7f-bbde-458f-a9b3-e9150ce0ddc9)
+
+![Screenshot 2023-12-13 205545](https://github.com/ManavTyagi-kp/PaymentAppUI/assets/83765713/15ea3fc2-e2d2-4af4-885e-cb45078de6da)
+
+![Screenshot 2023-12-13 205909](https://github.com/ManavTyagi-kp/PaymentAppUI/assets/83765713/d66908a5-f138-4bb4-9f4e-a38d2b89d3db)
+
+![Screenshot 2023-12-13 205949](https://github.com/ManavTyagi-kp/PaymentAppUI/assets/83765713/aa9db380-323f-493c-a087-57f39990633f)
+
 
 ## Getting Started
 
